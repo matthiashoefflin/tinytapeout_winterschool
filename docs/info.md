@@ -9,11 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Using...
+- ...input 0 to switch speed between slow and fast
+- ...input 1 to change the direction
+- ...input 2 to pause the movement
+- ...input 3 to change RGB to grayscale
 
 ## How to test
 
-Explain how to use your project
+Control the initial VGA design with the input description from "How it works"
 
 ## External hardware
 
